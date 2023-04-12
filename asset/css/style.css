@@ -63,7 +63,8 @@ h2{
 }
 
 .title{
-    width: 70%;
+    width: 90%;
+    font-size: 30px;
 }
 
 .info{
@@ -81,6 +82,7 @@ h2{
 .prices h2{
     margin-right: 2rem;
     color: var(--Dark-cyan);
+    font-size: 25px;
 }
 
 .prices p{
@@ -100,6 +102,7 @@ h2{
     gap: 0.5rem;
     border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
     cursor: pointer;
+    font-size: 15px;
 }
 
 .btn:hover{

@@ -7,6 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,6 +27,11 @@ Users should be able to:
 ![](./asset/img/Screenshot.png)
 ![](./asset/img/Screenshot-2.png)
 
+### Links
+
+- Solution URL: ![](https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py)
+- Live site URL: ![](https://linen220.github.io/product-preview/)
+
 ## My process
 
 ### Built with
@@ -33,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -42,4 +47,5 @@ I tested your knowledge of html and css so far, where I was able to apply flexbo
 
 ## Author
 
-- Fernando Marcial Rondón Puma
+- Frontend Mentor - [@Linen220](https://www.frontendmentor.io/profile/Linen220)
+- Github - Linen220
