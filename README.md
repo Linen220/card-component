@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![](https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py)
-- Live site URL: ![](https://linen220.github.io/product-preview/)
+- Solution URL: (![](https://www.frontendmentor.io/solutions/second-challenge-L2tYEnK_py))
+- Live site URL: (![](https://linen220.github.io/product-preview/))
 
 ## My process
 
