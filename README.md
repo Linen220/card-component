@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I tested your knowledge of html and css so far, where I was able to apply flexbox and responsiveness to the page.
+I tested my knowledge of HTML and CSS so far, where I was able to apply flexbox and responsive page design.
 
 ## Author
 
